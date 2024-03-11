@@ -1,0 +1,8 @@
+{
+  "name": "nyze",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nyze/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
